@@ -6,8 +6,6 @@
 
 📫 You can reach me mail : rparandhama63@gmail.com.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
-
 
 <!---
 PARANDHAMAREDDYBOMMAKA/PARANDHAMAREDDYBOMMAKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
