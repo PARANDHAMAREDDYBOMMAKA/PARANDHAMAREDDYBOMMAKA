@@ -6,7 +6,7 @@
 
 📫 You can reach me mail : rparandhama63@gmail.com.
 
-
+![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
 
 
 <!---
