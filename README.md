@@ -6,7 +6,7 @@
 
 📫 You can reach me mail : rparandhama63@gmail.com.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARANDHAMAREDDYBOMMAKA&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARANDHAMAREDDYBOMMAKA&hide_progress=true)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PARANDHAMAREDDYBOMMAKA&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
