@@ -1,3 +1,5 @@
+# 🐵 PARANDHAMA REDDY
+
 👋 Hi, I’m @PARANDHAMAREDDYBOMMAKA. I'm a student at Kalvium.
 
 👀 I’m interested in programming, technology, science, etc..
