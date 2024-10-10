@@ -25,7 +25,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PARANDHAMAREDDYBOMMAKA&icon=7&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PARANDHAMAREDDYBOMMAKA&icon=7&color=2)](https://visitcount.itsvg.in)
 
 <!---
 PARANDHAMAREDDYBOMMAKA/PARANDHAMAREDDYBOMMAKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
