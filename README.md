@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-👋 Hi, I’m @PARANDHAMAREDDYBOMMAKA. I'm a student at Kalvium.<br><br>👀 I’m interested in programming, technology, science, etc..<br><br>🌱 I’m currently learning Full Stack Web Development<br><br>📫 You can reach me mail : rparandhama63@gmail.com.<br><br>👀 PortFolio : You can see here
+👋 Hi, I’m @PARANDHAMAREDDYBOMMAKA. I'm a student at Kalvium.<br><br>👀 I’m interested in programming, technology, science, etc..<br><br>🌱 I’m currently learning Full Stack Web Development<br><br>📫 You can reach me mail : rparandhama63@gmail.com.<br><br>👀 PortFolio : [You can see here](https://portfolio-parandhamareddys-projects.vercel.app/)
 
 
 ## 🌐 Socials:
