@@ -3,8 +3,28 @@ PARANDHAMAREDDYBOMMAKA/PARANDHAMAREDDYBOMMAKA is a ✨ special ✨ repository be
 You can click the Preview link to take a look at your changes.
 --->
 
-# 💫 About Me:
-👋 Hi, I’m @PARANDHAMAREDDYBOMMAKA. I'm a student at Kalvium.<br><br>👀 I’m interested in programming, technology, science, etc..<br><br>🌱 I’m currently learning Full Stack Web Development<br><br>📫 You can reach me mail : rparandhama63@gmail.com.<br><br>👀 PortFolio : [You can see here](https://portfolio-parandhamareddys-projects.vercel.app/)
+# 💫 About Me  
+
+👋 Hi, I’m **Parandhama Reddy Bommaka**, a passionate **Full Stack Web Development** student at **Kalvium**.  
+I have a strong interest in programming, technology, and science, and I enjoy exploring new advancements in these fields.  
+
+## 🚀 What I Do  
+- 💻 I love solving problems through **coding** and **building web applications** that enhance user experiences.  
+- 🌱 Currently focusing on **Full Stack Web Development**, honing my skills in both front-end and back-end technologies.  
+- 🚀 Continuously learning and working on real-world projects to improve my expertise in **modern web technologies**.  
+
+## 📚 Skills & Interests  
+✔ **Programming Languages:** JavaScript, Python, etc.  
+✔ **Web Development:** HTML, CSS, React, Next.js, Node.js  
+✔ **Database Management:** MongoDB, MySQL  
+✔ **Other Interests:** Science, AI, and emerging technologies  
+
+## 📫 Get in Touch  
+📧 **Email:** [rparandhama63@gmail.com](mailto:rparandhama63@gmail.com)  
+🌍 **Portfolio:** [Check out my work](https://portfolio-parandhamareddys-projects.vercel.app/) 
+
+I’m always open to **collaborations, learning opportunities, and networking with like-minded individuals**.  
+Feel free to connect with me! 😊  
 
 
 ## 🌐 Socials:
