@@ -14,7 +14,7 @@ I have a strong interest in programming, technology, and science, and I enjoy ex
 - 🚀 Continuously learning and working on real-world projects to improve my expertise in **modern web technologies**.  
 
 ## 📚 Skills & Interests  
-✔ **Programming Languages:** JavaScript, Python, etc.  
+✔ **Programming Languages:** JavaScript, Python, Java, Swift.  
 ✔ **Web Development:** HTML, CSS, React, Next.js, Node.js  
 ✔ **Database Management:** MongoDB, MySQL  
 ✔ **Other Interests:** Science, AI, and emerging technologies  
