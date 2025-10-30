@@ -43,6 +43,9 @@ Feel free to connect with me! 😊
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+[![An image of @parandhamareddybommaka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parandhamareddybommaka)](https://holopin.io/@parandhamareddybommaka)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PARANDHAMAREDDYBOMMAKA&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
