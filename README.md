@@ -3,11 +3,16 @@ PARANDHAMAREDDYBOMMAKA/PARANDHAMAREDDYBOMMAKA is a ✨ special ✨ repository be
 You can click the Preview link to take a look at your changes.
 --->
 
-# 💫 About Me  
+## 💫 About Me
 
-👋 Hi, I’m **Parandhama Reddy Bommaka**, a passionate **Full Stack Web Development** student at **Kalvium**.  
-I have a strong interest in programming, technology, and science, and I enjoy exploring new advancements in these fields.  
+👋 Hi, I’m **Parandhama Reddy Bommaka**, a **Full Stack Developer** currently interning at **Product Fusion**. 
 
+I specialize in building robust web architectures and am currently focused on the frontier of **Agentic AI**—developing autonomous systems that bridge the gap between LLMs and real-world applications.
+
+- 🛠️ **Current Focus:** Engineering scalable Full Stack solutions and Agentic AI workflows.
+- 🚀 **Industry Experience:** Full Stack Intern @ Product Fusion.
+- 💡 **Passion:** Solving complex problems through clean code and emerging technologies.
+- 
 ## 🚀 What I Do  
 - 💻 I love solving problems through **coding** and **building web applications** that enhance user experiences.  
 - 🌱 Currently focusing on **Full Stack Web Development**, honing my skills in both front-end and back-end technologies.  
