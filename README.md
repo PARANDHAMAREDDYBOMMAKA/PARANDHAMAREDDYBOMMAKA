@@ -12,7 +12,7 @@ I specialize in building robust web architectures and am currently focused on th
 - 🛠️ **Current Focus:** Engineering scalable Full Stack solutions and Agentic AI workflows.
 - 🚀 **Industry Experience:** Full Stack Intern @ Product Fusion.
 - 💡 **Passion:** Solving complex problems through clean code and emerging technologies.
-- 
+
 ## 🚀 What I Do  
 - 💻 I love solving problems through **coding** and **building web applications** that enhance user experiences.  
 - 🌱 Currently focusing on **Full Stack Web Development**, honing my skills in both front-end and back-end technologies.  
