@@ -53,29 +53,51 @@ const parandhama = {
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java,swift,html,css&theme=dark" alt="languages" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java,swift&theme=dark" alt="languages" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="frontend" />
+      <img src="https://skillicons.dev/icons?i=react,vue,nextjs,astro&theme=dark" alt="frontend" />
+      <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java UI" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Styling &amp; UI</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tailwind,materialui&theme=dark" alt="styling & ui" />
       <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" height="28" />
+      <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" height="28" />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="flutter" />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" height="28" />
     </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="backend" />
-      <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon" height="28" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,django,go&theme=dark" alt="backend" />
     </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark" alt="databases" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis&theme=dark" alt="databases" /></td>
+  </tr>
+  <tr>
+    <td><b>APIs &amp; Messaging</b></td>
+    <td><img src="https://skillicons.dev/icons?i=graphql,kafka&theme=dark" alt="apis & messaging" /></td>
   </tr>
   <tr>
     <td><b>DevOps &amp; Deploy</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,npm&theme=dark" alt="devops" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,npm&theme=dark" alt="devops" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" height="28" />
+    </td>
   </tr>
 </table>
 
@@ -115,10 +137,6 @@ const parandhama = {
   <img src="https://streak-stats.demolab.com?user=PARANDHAMAREDDYBOMMAKA&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<h4 align="center">Contribution Calendar (last year)</h4>
-<p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/409ba5/PARANDHAMAREDDYBOMMAKA" alt="contribution calendar" />
-</p>
 
 ---
 
